@@ -1,0 +1,23 @@
+{
+  "name": "climazon",
+  "version": "1.0.0",
+  "description": "An example CLI for store-like product management",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pablodubco/Climazon.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pablodubco/Climazon/issues"
+  },
+  "homepage": "https://github.com/Pablodubco/Climazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
